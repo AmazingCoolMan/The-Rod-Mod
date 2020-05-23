@@ -1,3 +1,4 @@
 displayName = The Rod Mod
 author = iamcoolman
 version = 0.1
+homepage = https://github.com/AmazingCoolMan/The-Rod-Mod/edit/master/TheRodMod/build.txt
