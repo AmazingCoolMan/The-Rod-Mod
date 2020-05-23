@@ -36,7 +36,7 @@ namespace TheRodMod.Items
 		public override void AddRecipes() 
 		{
 			ModRecipe recipe = new ModRecipe(mod);
-			recipe.AddIngredient(ItemID.GoldIngot, 15);
+			recipe.AddIngredient(ItemID.GoldBar, 15);
 			recipe.AddTile(TileID.Anvils);
 			recipe.SetResult(this);
 			recipe.AddRecipe();
