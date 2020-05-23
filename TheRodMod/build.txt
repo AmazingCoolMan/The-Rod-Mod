@@ -1,0 +1,3 @@
+displayName = The Rod Mod
+author = iamcoolman
+version = 0.1
